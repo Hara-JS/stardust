@@ -25,6 +25,7 @@ nav ul li {
     text-align: center;
     box-sizing: border-box;
     display: inline-block;
+    box-sizing: border-box;
     border: 10px double #ccc;
     padding: 50px;
     margin: 20px;
@@ -60,7 +61,4 @@ nav ul li {
 
 .diceBtn2 {
     cursor: pointer;
-        box-sizing: border-box;
-        width: 20px;
-        height: 20px;
 }
